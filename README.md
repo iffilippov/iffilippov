@@ -26,10 +26,10 @@
 <br/>
 
 <div align="center">
-  <a href="github-readme-stats-iota-steel-69.vercel.app/api?username=iffilippov">
-    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=iffilippov&show_icons=true&theme=default&title_color=4887d7&icon_color=5193e4&bg_color=ffffff00&text_color=647a86&text_bold=false&border_color=444c54"/>
+  <a href="https://github-readme-stats-iota-steel-69.vercel.app/api?username=iffilippov">
+    <img align="center" height="165" src="https://github-readme-stats-iota-steel-69.vercel.app/api?username=iffilippov&show_icons=true&theme=default&title_color=4887d7&icon_color=5193e4&bg_color=ffffff00&text_color=647a86&text_bold=false&border_color=444c54"/>
   </a>
-  <a href="github-readme-stats-iota-steel-69.vercel.app/api/top-langs/?username=iffilippov">
-    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iffilippov&layout=compact&theme=default&langs_count=6&title_color=4887d7&bg_color=ffffff00&text_color=647a86&border_color=444c54"/>
+  <a href="https://github-readme-stats-iota-steel-69.vercel.app/api/top-langs/?username=iffilippov">
+    <img align="center" height="165" src="https://github-readme-stats-iota-steel-69.vercel.app/api/top-langs/?username=iffilippov&layout=compact&theme=default&langs_count=6&title_color=4887d7&bg_color=ffffff00&text_color=647a86&border_color=444c54"/>
   </a>
 </div>
