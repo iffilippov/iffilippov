@@ -1,6 +1,6 @@
 <h3 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/iffilippov/" target="_blank">Ivan</a> 👋 </h3>
 
-- I’m currently working on [Solarvito Bulletin Board](https://github.com/iffilippov/Solarvito-HTML-layout)
+- I’m currently working on [Solarvito Bulletin Board](https://github.com/iffilippov/Solarvito)
 
 - I’m currently learning: [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
