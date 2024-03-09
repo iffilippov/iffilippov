@@ -2,7 +2,7 @@
 
 <!-- - I’m currently working on [Solarvito Bulletin Board](https://github.com/iffilippov/Solarvito) -->
 
-- I’m currently learning: [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
+<!-- - I’m currently learning: [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://learn.javascript.ru/)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
@@ -20,7 +20,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)](http://htmlbook.ru/css3)
 [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)](https://sasscss.org/documentation)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-<br/>
+<br/> -->
 
 <!-- <div align="center">
   <a href="https://github-readme-stats-iota-steel-69.vercel.app/api?username=iffilippov">
